@@ -47,7 +47,7 @@ Trained a Random Forest Classifier on the training data.
 
 Evaluated the model's performance using accuracy score and confusion matrix.
 
-Achieved a testing data accuracy of 95.53%.
+Achieved a testing data accuracy of 96.34%.
 
 <h2>Technologies Used</h2>
 
